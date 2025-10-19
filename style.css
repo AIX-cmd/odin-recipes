@@ -1,0 +1,9 @@
+body {
+    background-color: aqua;
+}
+
+div {
+    border-color: black;
+    background-color: pink;
+    width: max-content;
+}

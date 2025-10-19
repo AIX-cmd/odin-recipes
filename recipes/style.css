@@ -1,0 +1,20 @@
+body {
+    background-color: chartreuse;
+}
+
+.ingredients {
+    border-color: blue;
+    border: 2px;
+    background-color: aquamarine;
+    width: max-content;
+    border-style: solid;
+    margin-bottom: 8px;
+}
+
+.steps {
+    border-color: red;
+    border: 2px;
+    background-color: antiquewhite;
+    width: max-content;
+    border-style: solid;
+}
